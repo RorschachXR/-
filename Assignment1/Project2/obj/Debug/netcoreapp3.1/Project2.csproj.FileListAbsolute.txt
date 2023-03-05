@@ -1,0 +1,16 @@
+E:\文档\软构\Project2\bin\Debug\netcoreapp3.1\Project2.exe
+E:\文档\软构\Project2\bin\Debug\netcoreapp3.1\Project2.deps.json
+E:\文档\软构\Project2\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.json
+E:\文档\软构\Project2\bin\Debug\netcoreapp3.1\Project2.runtimeconfig.dev.json
+E:\文档\软构\Project2\bin\Debug\netcoreapp3.1\Project2.dll
+E:\文档\软构\Project2\bin\Debug\netcoreapp3.1\Project2.pdb
+E:\文档\软构\Project2\obj\Debug\netcoreapp3.1\Project2.csproj.AssemblyReference.cache
+E:\文档\软构\Project2\obj\Debug\netcoreapp3.1\Project2.Form1.resources
+E:\文档\软构\Project2\obj\Debug\netcoreapp3.1\Project2.csproj.GenerateResource.cache
+E:\文档\软构\Project2\obj\Debug\netcoreapp3.1\Project2.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\软构\Project2\obj\Debug\netcoreapp3.1\Project2.AssemblyInfoInputs.cache
+E:\文档\软构\Project2\obj\Debug\netcoreapp3.1\Project2.AssemblyInfo.cs
+E:\文档\软构\Project2\obj\Debug\netcoreapp3.1\Project2.csproj.CoreCompileInputs.cache
+E:\文档\软构\Project2\obj\Debug\netcoreapp3.1\Project2.dll
+E:\文档\软构\Project2\obj\Debug\netcoreapp3.1\Project2.pdb
+E:\文档\软构\Project2\obj\Debug\netcoreapp3.1\Project2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\文档\软构\Assignment11\bin\Debug\netcoreapp3.1\Assignment11.exe
+E:\文档\软构\Assignment11\bin\Debug\netcoreapp3.1\Assignment11.deps.json
+E:\文档\软构\Assignment11\bin\Debug\netcoreapp3.1\Assignment11.runtimeconfig.json
+E:\文档\软构\Assignment11\bin\Debug\netcoreapp3.1\Assignment11.runtimeconfig.dev.json
+E:\文档\软构\Assignment11\bin\Debug\netcoreapp3.1\Assignment11.dll
+E:\文档\软构\Assignment11\bin\Debug\netcoreapp3.1\Assignment11.pdb
+E:\文档\软构\Assignment11\obj\Debug\netcoreapp3.1\Assignment11.csproj.AssemblyReference.cache
+E:\文档\软构\Assignment11\obj\Debug\netcoreapp3.1\Assignment11.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\软构\Assignment11\obj\Debug\netcoreapp3.1\Assignment11.AssemblyInfoInputs.cache
+E:\文档\软构\Assignment11\obj\Debug\netcoreapp3.1\Assignment11.AssemblyInfo.cs
+E:\文档\软构\Assignment11\obj\Debug\netcoreapp3.1\Assignment11.csproj.CoreCompileInputs.cache
+E:\文档\软构\Assignment11\obj\Debug\netcoreapp3.1\Assignment11.dll
+E:\文档\软构\Assignment11\obj\Debug\netcoreapp3.1\Assignment11.pdb
+E:\文档\软构\Assignment11\obj\Debug\netcoreapp3.1\Assignment11.genruntimeconfig.cache
