@@ -1,0 +1,14 @@
+E:\文档\软构\Assignment2\Project1_PrimeFactor\bin\Debug\netcoreapp3.1\Project1_PrimeFactor.exe
+E:\文档\软构\Assignment2\Project1_PrimeFactor\bin\Debug\netcoreapp3.1\Project1_PrimeFactor.deps.json
+E:\文档\软构\Assignment2\Project1_PrimeFactor\bin\Debug\netcoreapp3.1\Project1_PrimeFactor.runtimeconfig.json
+E:\文档\软构\Assignment2\Project1_PrimeFactor\bin\Debug\netcoreapp3.1\Project1_PrimeFactor.runtimeconfig.dev.json
+E:\文档\软构\Assignment2\Project1_PrimeFactor\bin\Debug\netcoreapp3.1\Project1_PrimeFactor.dll
+E:\文档\软构\Assignment2\Project1_PrimeFactor\bin\Debug\netcoreapp3.1\Project1_PrimeFactor.pdb
+E:\文档\软构\Assignment2\Project1_PrimeFactor\obj\Debug\netcoreapp3.1\Project1_PrimeFactor.csproj.AssemblyReference.cache
+E:\文档\软构\Assignment2\Project1_PrimeFactor\obj\Debug\netcoreapp3.1\Project1_PrimeFactor.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\软构\Assignment2\Project1_PrimeFactor\obj\Debug\netcoreapp3.1\Project1_PrimeFactor.AssemblyInfoInputs.cache
+E:\文档\软构\Assignment2\Project1_PrimeFactor\obj\Debug\netcoreapp3.1\Project1_PrimeFactor.AssemblyInfo.cs
+E:\文档\软构\Assignment2\Project1_PrimeFactor\obj\Debug\netcoreapp3.1\Project1_PrimeFactor.csproj.CoreCompileInputs.cache
+E:\文档\软构\Assignment2\Project1_PrimeFactor\obj\Debug\netcoreapp3.1\Project1_PrimeFactor.dll
+E:\文档\软构\Assignment2\Project1_PrimeFactor\obj\Debug\netcoreapp3.1\Project1_PrimeFactor.pdb
+E:\文档\软构\Assignment2\Project1_PrimeFactor\obj\Debug\netcoreapp3.1\Project1_PrimeFactor.genruntimeconfig.cache

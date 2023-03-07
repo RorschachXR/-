@@ -1,0 +1,14 @@
+E:\文档\软构\Assignment2\Project4_MatrixJudge\bin\Debug\netcoreapp3.1\Project4_MatrixJudge.exe
+E:\文档\软构\Assignment2\Project4_MatrixJudge\bin\Debug\netcoreapp3.1\Project4_MatrixJudge.deps.json
+E:\文档\软构\Assignment2\Project4_MatrixJudge\bin\Debug\netcoreapp3.1\Project4_MatrixJudge.runtimeconfig.json
+E:\文档\软构\Assignment2\Project4_MatrixJudge\bin\Debug\netcoreapp3.1\Project4_MatrixJudge.runtimeconfig.dev.json
+E:\文档\软构\Assignment2\Project4_MatrixJudge\bin\Debug\netcoreapp3.1\Project4_MatrixJudge.dll
+E:\文档\软构\Assignment2\Project4_MatrixJudge\bin\Debug\netcoreapp3.1\Project4_MatrixJudge.pdb
+E:\文档\软构\Assignment2\Project4_MatrixJudge\obj\Debug\netcoreapp3.1\Project4_MatrixJudge.csproj.AssemblyReference.cache
+E:\文档\软构\Assignment2\Project4_MatrixJudge\obj\Debug\netcoreapp3.1\Project4_MatrixJudge.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\软构\Assignment2\Project4_MatrixJudge\obj\Debug\netcoreapp3.1\Project4_MatrixJudge.AssemblyInfoInputs.cache
+E:\文档\软构\Assignment2\Project4_MatrixJudge\obj\Debug\netcoreapp3.1\Project4_MatrixJudge.AssemblyInfo.cs
+E:\文档\软构\Assignment2\Project4_MatrixJudge\obj\Debug\netcoreapp3.1\Project4_MatrixJudge.csproj.CoreCompileInputs.cache
+E:\文档\软构\Assignment2\Project4_MatrixJudge\obj\Debug\netcoreapp3.1\Project4_MatrixJudge.dll
+E:\文档\软构\Assignment2\Project4_MatrixJudge\obj\Debug\netcoreapp3.1\Project4_MatrixJudge.pdb
+E:\文档\软构\Assignment2\Project4_MatrixJudge\obj\Debug\netcoreapp3.1\Project4_MatrixJudge.genruntimeconfig.cache

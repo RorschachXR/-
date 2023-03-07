@@ -1,0 +1,14 @@
+E:\文档\软构\Assignment2\Project3_Eratosthenes\bin\Debug\netcoreapp3.1\Project3_Eratosthenes.exe
+E:\文档\软构\Assignment2\Project3_Eratosthenes\bin\Debug\netcoreapp3.1\Project3_Eratosthenes.deps.json
+E:\文档\软构\Assignment2\Project3_Eratosthenes\bin\Debug\netcoreapp3.1\Project3_Eratosthenes.runtimeconfig.json
+E:\文档\软构\Assignment2\Project3_Eratosthenes\bin\Debug\netcoreapp3.1\Project3_Eratosthenes.runtimeconfig.dev.json
+E:\文档\软构\Assignment2\Project3_Eratosthenes\bin\Debug\netcoreapp3.1\Project3_Eratosthenes.dll
+E:\文档\软构\Assignment2\Project3_Eratosthenes\bin\Debug\netcoreapp3.1\Project3_Eratosthenes.pdb
+E:\文档\软构\Assignment2\Project3_Eratosthenes\obj\Debug\netcoreapp3.1\Project3_Eratosthenes.csproj.AssemblyReference.cache
+E:\文档\软构\Assignment2\Project3_Eratosthenes\obj\Debug\netcoreapp3.1\Project3_Eratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\软构\Assignment2\Project3_Eratosthenes\obj\Debug\netcoreapp3.1\Project3_Eratosthenes.AssemblyInfoInputs.cache
+E:\文档\软构\Assignment2\Project3_Eratosthenes\obj\Debug\netcoreapp3.1\Project3_Eratosthenes.AssemblyInfo.cs
+E:\文档\软构\Assignment2\Project3_Eratosthenes\obj\Debug\netcoreapp3.1\Project3_Eratosthenes.csproj.CoreCompileInputs.cache
+E:\文档\软构\Assignment2\Project3_Eratosthenes\obj\Debug\netcoreapp3.1\Project3_Eratosthenes.dll
+E:\文档\软构\Assignment2\Project3_Eratosthenes\obj\Debug\netcoreapp3.1\Project3_Eratosthenes.pdb
+E:\文档\软构\Assignment2\Project3_Eratosthenes\obj\Debug\netcoreapp3.1\Project3_Eratosthenes.genruntimeconfig.cache

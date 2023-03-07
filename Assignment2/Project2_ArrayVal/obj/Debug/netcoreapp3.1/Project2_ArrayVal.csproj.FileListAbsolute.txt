@@ -1,0 +1,14 @@
+E:\文档\软构\Assignment2\Project2_ArrayVal\bin\Debug\netcoreapp3.1\Project2_ArrayVal.exe
+E:\文档\软构\Assignment2\Project2_ArrayVal\bin\Debug\netcoreapp3.1\Project2_ArrayVal.deps.json
+E:\文档\软构\Assignment2\Project2_ArrayVal\bin\Debug\netcoreapp3.1\Project2_ArrayVal.runtimeconfig.json
+E:\文档\软构\Assignment2\Project2_ArrayVal\bin\Debug\netcoreapp3.1\Project2_ArrayVal.runtimeconfig.dev.json
+E:\文档\软构\Assignment2\Project2_ArrayVal\bin\Debug\netcoreapp3.1\Project2_ArrayVal.dll
+E:\文档\软构\Assignment2\Project2_ArrayVal\bin\Debug\netcoreapp3.1\Project2_ArrayVal.pdb
+E:\文档\软构\Assignment2\Project2_ArrayVal\obj\Debug\netcoreapp3.1\Project2_ArrayVal.csproj.AssemblyReference.cache
+E:\文档\软构\Assignment2\Project2_ArrayVal\obj\Debug\netcoreapp3.1\Project2_ArrayVal.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\软构\Assignment2\Project2_ArrayVal\obj\Debug\netcoreapp3.1\Project2_ArrayVal.AssemblyInfoInputs.cache
+E:\文档\软构\Assignment2\Project2_ArrayVal\obj\Debug\netcoreapp3.1\Project2_ArrayVal.AssemblyInfo.cs
+E:\文档\软构\Assignment2\Project2_ArrayVal\obj\Debug\netcoreapp3.1\Project2_ArrayVal.csproj.CoreCompileInputs.cache
+E:\文档\软构\Assignment2\Project2_ArrayVal\obj\Debug\netcoreapp3.1\Project2_ArrayVal.dll
+E:\文档\软构\Assignment2\Project2_ArrayVal\obj\Debug\netcoreapp3.1\Project2_ArrayVal.pdb
+E:\文档\软构\Assignment2\Project2_ArrayVal\obj\Debug\netcoreapp3.1\Project2_ArrayVal.genruntimeconfig.cache
