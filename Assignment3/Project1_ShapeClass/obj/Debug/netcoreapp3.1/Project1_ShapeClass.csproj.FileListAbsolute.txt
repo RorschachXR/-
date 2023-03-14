@@ -1,0 +1,14 @@
+E:\文档\软构\Assignment3\Project1_ShapeClass\bin\Debug\netcoreapp3.1\Project1_ShapeClass.exe
+E:\文档\软构\Assignment3\Project1_ShapeClass\bin\Debug\netcoreapp3.1\Project1_ShapeClass.deps.json
+E:\文档\软构\Assignment3\Project1_ShapeClass\bin\Debug\netcoreapp3.1\Project1_ShapeClass.runtimeconfig.json
+E:\文档\软构\Assignment3\Project1_ShapeClass\bin\Debug\netcoreapp3.1\Project1_ShapeClass.runtimeconfig.dev.json
+E:\文档\软构\Assignment3\Project1_ShapeClass\bin\Debug\netcoreapp3.1\Project1_ShapeClass.dll
+E:\文档\软构\Assignment3\Project1_ShapeClass\bin\Debug\netcoreapp3.1\Project1_ShapeClass.pdb
+E:\文档\软构\Assignment3\Project1_ShapeClass\obj\Debug\netcoreapp3.1\Project1_ShapeClass.csproj.AssemblyReference.cache
+E:\文档\软构\Assignment3\Project1_ShapeClass\obj\Debug\netcoreapp3.1\Project1_ShapeClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\文档\软构\Assignment3\Project1_ShapeClass\obj\Debug\netcoreapp3.1\Project1_ShapeClass.AssemblyInfoInputs.cache
+E:\文档\软构\Assignment3\Project1_ShapeClass\obj\Debug\netcoreapp3.1\Project1_ShapeClass.AssemblyInfo.cs
+E:\文档\软构\Assignment3\Project1_ShapeClass\obj\Debug\netcoreapp3.1\Project1_ShapeClass.csproj.CoreCompileInputs.cache
+E:\文档\软构\Assignment3\Project1_ShapeClass\obj\Debug\netcoreapp3.1\Project1_ShapeClass.dll
+E:\文档\软构\Assignment3\Project1_ShapeClass\obj\Debug\netcoreapp3.1\Project1_ShapeClass.pdb
+E:\文档\软构\Assignment3\Project1_ShapeClass\obj\Debug\netcoreapp3.1\Project1_ShapeClass.genruntimeconfig.cache
